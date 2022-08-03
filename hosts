@@ -1,0 +1,74 @@
+127.0.0.1       localhost
+255.255.255.255 broadcasthost
+::1             localhost
+
+52.149.247.1    duckduckgo.com
+216.239.38.120  www.google.com google.com google.ru www.google.ru google.ca
+213.180.193.56  yandex.ru
+216.239.38.120  plus.google.com
+204.79.197.220  www.bing.com bing.com
+204.79.197.220  www2.bing.com
+204.79.197.220  www3.bing.com
+
+0.0.0.0         kod.ru
+0.0.0.0         bipbap.ru
+0.0.0.0         0225.ru
+0.0.0.0         zozhnik.ru
+0.0.0.0         external-content.duckduckgo.com
+0.0.0.0         zen.yandex.ru
+0.0.0.0         fotovmire.ru
+0.0.0.0         vev.ru
+0.0.0.0         most-beauty.ru
+0.0.0.0         fishki.net
+0.0.0.0         gbstore.ru
+0.0.0.0         avito.ru
+0.0.0.0         appleinsider.ru
+0.0.0.0         coub.com
+0.0.0.0         androidinsider.ru
+0.0.0.0         auto.ru
+0.0.0.0         mobile-review.com
+0.0.0.0         woman.ru
+0.0.0.0         otvet.mail.ru
+0.0.0.0         moscowtimes.ru
+0.0.0.0         iguides.ru
+0.0.0.0         lenta.ru
+0.0.0.0         beeg.com
+0.0.0.0         wylsa.com
+0.0.0.0         ria.ru
+0.0.0.0         rbc.ru
+0.0.0.0         vedomosti.ru
+0.0.0.0         pikabu.ru
+0.0.0.0         iphones.ru
+0.0.0.0         vc.ru
+0.0.0.0         xda-developers.com www.xda-developers.com
+0.0.0.0         lifehacker.ru
+0.0.0.0         tumblr.com
+0.0.0.0         3dnews.ru
+0.0.0.0         pressa.tv
+0.0.0.0         tjournal.ru
+0.0.0.0         smotrim.net
+0.0.0.0         mirtesen.ru
+0.0.0.0         maximonline.ru
+0.0.0.0         pornhub.com
+0.0.0.0         rozetked.me
+0.0.0.0         yaplakal.com
+0.0.0.0         smart-lab.ru
+0.0.0.0         meduza.io
+0.0.0.0         ixbt.com
+0.0.0.0         wildberries.ru
+0.0.0.0         incrussia.ru
+0.0.0.0         fotostrana.ru
+0.0.0.0         livejournal.com
+0.0.0.0         pixmafia.ru
+0.0.0.0         medialike.ru
+0.0.0.0         inosmi.ru
+0.0.0.0         click-or-die.ru
+0.0.0.0         fb.ru
+0.0.0.0         pinterest.com www.pinterest.com
+0.0.0.0         vk.ru www.vk.ru
+0.0.0.0         vk.com www.vk.com
+0.0.0.0         facebook.com
+0.0.0.0         instagram.com
+0.0.0.0         ferra.ru
+
+127.0.0.1       kubernetes.docker.internal
