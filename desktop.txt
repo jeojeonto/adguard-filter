@@ -1,0 +1,2 @@
+duckduckgo.com##article:has-text(/vk.com/i)
+yandex.ru##.serp-item:has-text(/vk.com/i)
