@@ -814,6 +814,7 @@ ozon.ru##div[data-widget="categoryLogos"]
 ozon.ru##div[data-widget="paginator"] div[data-test-id="18-placeholder"]:upward(5)
 ozon.ru##div[data-widget="megaPaginator"] div[data-test-id="18-placeholder"]:upward(6)
 ozon.ru##div[data-widget="suggestedTapTags"]
+ozon.ru##a[href^="/product/kupalnik"]:upward(1)
 
 spormaster.ru##.up-header-banner
 
