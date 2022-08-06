@@ -78,6 +78,6 @@
 0.0.0.0         instagram.com
 0.0.0.0         ferra.ru
 
-127.0.0.1 appldnld.apple.com
-127.0.0.1 mesu.apple.com
+127.0.0.1       appldnld.apple.com
+127.0.0.1       mesu.apple.com
 127.0.0.1       kubernetes.docker.internal
