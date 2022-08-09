@@ -51,12 +51,11 @@ youtube.com###endpoint[title="Library"]
 youtube.com###endpoint[title="Help"]
 youtube.com##button[aria-label="Search YouTube"]
 youtube.com##button[aria-label="Create a video or post"]
-youtube.com##button[aria-label="Create"]
 youtube.com##button[aria-label="Guide"]
 youtube.com##button[aria-label="Upload"]
 youtube.com##button[aria-label="YouTube apps"]
 youtube.com##button[aria-label="Notifications"]
-youtube.com##button[aria-label="Account"]
+youtube.com##ytd-notification-topbar-button-renderer
 youtube.com##button[aria-label="More options"]
 youtube.com##ytm-item-section-renderer[data-content-type="related"]
 youtube.com##ytm-comments-entry-point-header-renderer
