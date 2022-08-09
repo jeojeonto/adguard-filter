@@ -1,7 +1,6 @@
 ##[aria-label*="Comment"]
 ##[aria-label*="Leave a comment"]
 
-##[id*="avatar"]
 ##[class*="avatar"]
 ##[alt*="avatar"]
 ##[alt*="Avatar"]
