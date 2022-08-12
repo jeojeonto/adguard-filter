@@ -270,6 +270,9 @@ youla.ru##div[data-test-block="IndexContainerPanel"]
 youla.ru##div[data-test-block="IndexContainerSidebar"]
 youla.ru##footer[data-test-component="Footer"]
 
+ivi.ru##.nbl-ageBadge_value_18:upward(a)
+ivi.ru##.watchParams__paramsList:has-text(/18+/):upward(body)
+
 drive2.ru##div[data-target="drom_main_view"]
 drive2.ru##button[data-action="notifications.toggle"]
 drive2.ru##button[data-role="subscribe"]
