@@ -1,1 +1,2 @@
 jsbin.com###toppanel
+bitbucket.org##*
