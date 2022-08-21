@@ -430,6 +430,10 @@ kino.pub##a[href="/subtitle"]
 kino.pub##a[href*="?genre="]:upward(1)
 kino.pub##a[href*="?age="]:upward(1)
 kino.pub##a[href*="/selection/view?"]:upward(1)
+kino.pub##a[href*="/item/search?query="]
+kino.pub##a[href*="?country="]
+kino.pub##a[href*="?years="]
+kino.pub##a[href*="/subtitle/"]
 kino.pub###items
 kino.pub###carousel-similar:upward(1)
 kino.pub###aside
