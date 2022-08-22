@@ -10,6 +10,8 @@
 204.79.197.220  www2.bing.com
 204.79.197.220  www3.bing.com
 
+0.0.0.0         uts-api.itunes.apple.com
+0.0.0.0         uts-api-cdn.itunes-apple.com.akadns.net
 0.0.0.0         kod.ru
 0.0.0.0         9gag.com
 0.0.0.0         my.mail.ru
