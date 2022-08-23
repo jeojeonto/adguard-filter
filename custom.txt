@@ -780,6 +780,7 @@ ozon.ru##header img[alt="Ozon"]
 ozon.ru##p:has-text(Уведомления):upward(1)
 ozon.ru##span:has-text(Уведомления):upward(1)
 ozon.ru##a[href="/social/"]
+ozon.ru##div[data-widget="objectBannerList"]
 ozon.ru##nav[data-widget="mobileHeader"] a[href="/category/"]
 ozon.ru#$#nav[data-widget="mobileHeader"] > div { display: flex!important; }
 ozon.ru#$#nav[data-widget="mobileHeader"] a { flex: 1!important; }
