@@ -27,3 +27,4 @@ music.yandex.ru#%#if(location.pathname=='/'){location.pathname='/users/toropanov
 javascript.ru#%#if(location.host=='javascript.ru'){location.href='https://learn.javascript.ru/'}
 github.com#%#if(location.pathname=='/'){location.pathname='/toropanov'}
 reddit.com#%#if(location.pathname=='/' || location.pathname=='/r/all/' || location.pathname=='/r/popular/'){location.pathname='/user/umEyGBccsNqt2/submitted/'}
+ 
