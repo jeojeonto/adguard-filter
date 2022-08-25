@@ -83,6 +83,7 @@ youtube.com##.ytp-endscreen-content
 youtube.com##.ytd-live-chat-frame
 youtube.com##.compact-media-item-stats
 youtube.com##ytm-paid-content-overlay-renderer
+youtube.com##.ytp-paid-content-overlay
 youtube.com##a.ytp-next-button
 youtube.com##tp-yt-paper-tab:has-text(/Community|Channels|About/)
 youtube.com##tp-yt-paper-button:has-text(/Play all/)
