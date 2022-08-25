@@ -35,9 +35,12 @@ youtube.com##ytd-rich-grid-renderer
 youtube.com###owner-sub-count
 youtube.com###notification-preference-button
 youtube.com###related
-youtube.com###info-contents
+youtube.com##ytd-video-primary-info-renderer #info-text
+youtube.com##button.slim-video-metadata-header
+youtube.com###top-level-buttons-computed ytd-toggle-button-renderer
 youtube.com###subscriber-count
 youtube.com###chat
+youtube.com##ytd-video-primary-info-renderer .title
 youtube.com###endpoint[title="Home"]
 youtube.com###endpoint[title="Trending"]
 youtube.com###endpoint[title="Originals"]
@@ -63,7 +66,7 @@ youtube.com##ytm-pivot-bar-renderer
 youtube.com##ytm-channel-featured-video-renderer
 youtube.com##ytm-feed-filter-chip-bar-renderer
 youtube.com##div[tab-identifier="FEwhat_to_watch"]
-youtube.com##ytm-slim-video-action-bar-renderer
+youtube.com##ytm-slim-video-action-bar-renderer ytm-slim-metadata-toggle-button-renderer
 youtube.com##ytd-searchbox
 youtube.com###metadata-line
 youtube.com###hover-overlays
