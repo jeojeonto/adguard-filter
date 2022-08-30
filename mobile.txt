@@ -1,3 +1,5 @@
 jsbin.com###toppanel
 bitbucket.org##*
+aliexpress.ru##*
+aliexpress.com##*
 tinkoff.ru##div[data-qa-file="BwSideBarSummaryOffer"]
