@@ -18,6 +18,8 @@ google.com##.hdtb-mitem:has-text(/News|More/)
 google.com##a[aria-label="Google apps"]
 google.com##ddfddfiv[aria-label="Show side panel"]
 
+apple.com##img
+
 imdb.com##.swiper-wrapper:upward(3)
 imdb.com##a[aria-label="Go To IMDb Pro"]
 imdb.com##label[aria-label="Open Navigation Drawer"]
