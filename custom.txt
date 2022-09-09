@@ -381,6 +381,9 @@ aliexpress.*##div[exp_page_area="recommended_for_you"]
 aliexpress.*##div[exp_page_area="Top_Selling"]
 aliexpress.*##div[ae_button_type="Seller_Recommendations"]
 aliexpress.*##div[ae_button_type="More_to_love"]
+aliexpress.ru##[class*="RecommendationFeed__title"]:upward(div[class*="SnowContainer"])
+aliexpress.ru##h2[class*="RecommendationFeed__title"] ~ div
+aliexpress.ru##[class*="SnowHeaderItem__amount"]
 aliexpress.*##div[class*="TopHeadV2_TopHeadV2__topBarItem"]:has-text(Продавайте на AliExpress)
 aliexpress.*##div[class*="TopHeadV2_TopHeadV2__topBarItemsWrap"]:has-text(Защита Покупателя)
 
