@@ -26,6 +26,5 @@ facebook.com#%#if(location.host=='www.facebook.com'){location.href='https://safe
 instagram.com#%#if(location.host=='www.instagram.com'){location.href='https://safe.duckduckgo.com/'}
 music.yandex.ru#%#if(location.pathname=='/'){location.pathname='/users/toropanov/playlists/'}
 javascript.ru#%#if(location.host=='javascript.ru'){location.href='https://learn.javascript.ru/'}
-github.com#%#if(location.pathname=='/'){location.pathname='/toropanov'}
 reddit.com#%#if(location.pathname=='/' || location.pathname=='/r/all/' || location.pathname=='/r/popular/'){location.pathname='/user/umEyGBccsNqt2/submitted/'}
 aliexpress.com#%#if(true){location.host = 'aliexpress.ru'}
